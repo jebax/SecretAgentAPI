@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mongoose": "^4.13.18"
@@ -30,6 +31,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
     "sinon": "^7.2.3"
   }
 }
